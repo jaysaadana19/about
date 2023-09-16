@@ -9,7 +9,6 @@ Hello! 👋 I'm [Your Name], a [Your Profession or Title] passionate about [Your
 - 🎓 I graduated from GGSIPU with a degree in Software Development
 - 💡 I'm passionate about Tech,Community,Marketing, and I enjoy Networking.
 
-Stats
 [![jaysaadana19's GitHub | Stats](https://stats.quine.sh/jaysaadana19/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=jaysaadana19)
 
 
