@@ -1,6 +1,6 @@
 # About Me
 
-Hello! 👋 I'm [Your Name], a [Your Profession or Title] passionate about [Your Interests]. Welcome to my GitHub profile!
+Hello! 👋 I'm Jay Saadana, a Quine Ambassador passionate about learning and contributions  Welcome to my GitHub profile!
 
 ## About
 
